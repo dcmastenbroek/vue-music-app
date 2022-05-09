@@ -1,0 +1,49 @@
+{
+	"general": {
+		"added_comment": "Your comment has been added!",
+		"dutch": "Dutch",
+		"english": "English",
+		"latest": "Latest",
+		"loading": "Loading",
+		"music": "Music",
+		"oldest": "Oldest",
+		"songs": "Songs",
+		"submit": "Submit",
+		"your_account": "My Account"
+	},
+	"navigation": {
+		"about": "About",
+		"home": "Home",
+		"login": "Login",
+		"logout": "Logout",
+		"manage": "Manage",
+		"register": "Register"
+	},
+	"pages": {
+		"home": {
+			"listen": "Listen to Great Music!"
+		},
+		"login": {
+			"email": "Email",
+			"password": "Password"
+		},
+		"register": {
+			"accept_terms": "I accept Music's {0}",
+			"age": "Age",
+			"being_created": "Please wait, your account is being created...",
+			"confirm_password": "Confirm password",
+			"country": "Country",
+			"email": "Email",
+			"germany": "Germany",
+			"mexico": "Mexico",
+			"name": "Name",
+			"password": "Password",
+			"russia": "Russia",
+			"tos": "Terms of Service",
+			"usa": "USA"
+		},
+		"song": {
+			"comment_count": "No Comments | One Comment | {count} Comments"
+		}
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"general": {
+		"added_comment": "Jou opmerking is toegevoegd!",
+		"dutch": "Nederlands",
+		"english": "Engels",
+		"latest": "Laatste",
+		"loading": "Laden",
+		"music": "Muziek",
+		"oldest": "Oudste",
+		"songs": "Liedjes",
+		"submit": "Verzenden",
+		"your_account": "Mijn account"
+	},
+	"navigation": {
+		"about": "Over",
+		"home": "Home",
+		"login": "Inloggen",
+		"logout": "Uitloggen",
+		"manage": "Beheren",
+		"register": "Registreren"
+	},
+	"pages": {
+		"home": {
+			"listen": "Luister naar de beste muziek!"
+		},
+		"login": {
+			"email": "E-mail",
+			"password": "Wachtwoord"
+		},
+		"register": {
+			"accept_terms": "Ik ga akkoord met Music's {0}",
+			"age": "Leeftijd",
+			"being_created": "Even geduld, je account wordt aangemaakt...",
+			"confirm_password": "Wachtwoord bevestigen",
+			"country": "Land",
+			"email": "E-mail",
+			"germany": "Duitsland",
+			"mexico": "Mexico",
+			"name": "Naam",
+			"password": "Wachtwoord",
+			"russia": "Rusland",
+			"tos": "Algemene Voorwaarden",
+			"usa": "Verenigde Staten"
+		},
+		"song": {
+			"comment_count": "Geen opmerkingen | Een opmerking | {count} opmerkingen"
+		}
+	}
+}
